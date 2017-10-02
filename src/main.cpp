@@ -48,7 +48,7 @@ static const int64_t nInterval = nTargetTimespan / nTargetSpacing;
 static const int64_t nDiffChangeTarget = 1;
 
 unsigned int nTargetSpacing = 1 * 72; // 72 seconds
-unsigned int nStakeMinAge = 24 * 60 * 60 * 30; // 30 days
+unsigned int nStakeMinAge = 12 * 60 * 60 * 1; // 30 days
 unsigned int nStakeMaxAge = -1; // unlimited
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
