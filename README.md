@@ -43,7 +43,7 @@ or are controversial.
 
 The master branch is regularly built and tested, but is not guaranteed
 to be completely stable. Tags are regularly created to indicate new
-stable release versions of Katz.
+stable release versions of Leecoin.
 
 Feature branches are created when there are major new features being
 worked on by several people.
@@ -51,4 +51,4 @@ worked on by several people.
 
 License
 ===========================
-Katz Core is released under the terms of the MIT license. See http://opensource.org/licenses/MIT for more information.
+Leecoin Core is released under the terms of the MIT license. See http://opensource.org/licenses/MIT for more information.
