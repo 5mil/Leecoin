@@ -1,7 +1,7 @@
 
-Katz Development Tree
+Leecoin Development Tree
 ===========================
-Katz is an SHA256d Proof of Work (PoW) / Proof of Stake (PoS) based cryptocurrency.
+Leecoin is a SHA256d Proof of Work (PoW) / Proof of Stake (PoS) based cryptocurrency.
 
 Specifications:
 
@@ -9,19 +9,19 @@ Specifications:
 
 - PoW/PoS
 
-- PoW Blockreward - 1 KAT
+- PoW Blockreward - 1 LEE
 
-- PoS : Year 1 - 50% every 30 days    -     Year 2 : 20% every 30 days
+- PoS : 1.5% every 12 hours
 
 - Blocktime - 72 seconds
 
 - Diff. Retarget - Each Block
 
-- Minimum Stake Age : 30 days
+- Minimum Stake Age : 12 Hours
 
 - Maximum Stake Age : Unlimited
 
-- Premine : 30000 KAT
+- Premine : 30000 LEE
 
 - RPCPORT : 14563
 
