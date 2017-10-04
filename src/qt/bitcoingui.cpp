@@ -82,7 +82,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
      //Mac OSX GUI Qt Wallet Fixed
     //resize(850, 550);
     setFixedSize(990, 570);
-    setWindowTitle(tr("Katz") + " - " + tr("QT") + " | " + tr("Wallet"));
+    setWindowTitle(tr("Leecoin") + " - " + tr("QT") + " | " + tr("Wallet"));
 	
 	qApp->setStyleSheet("QMainWindow { background:rgb(255, 255, 255);font-family:'Open Sans,sans-serif'; }" //211,211,211
 	
@@ -255,7 +255,7 @@ void BitcoinGUI::createActions()
     //tabGroup->addAction(chatAction);
 
     sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send Coins"), this);
-    sendCoinsAction->setToolTip(tr("Send payment to a Katz address"));
+    sendCoinsAction->setToolTip(tr("Send payment to a Leecoin address"));
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
     tabGroup->addAction(sendCoinsAction);
@@ -306,17 +306,17 @@ void BitcoinGUI::createActions()
     quitAction->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
     quitAction->setMenuRole(QAction::QuitRole);
 	
-	//aboutKATAction = new QAction(QIcon(":/icons/bitcoin2"), tr("&KAT Website"), this);
-    //aboutKATAction->setToolTip(tr("Goto KAT Website"));
-    aboutAction = new QAction(QIcon(":/icons/bitcoin"), tr("&About Katz"), this);
-    aboutAction->setToolTip(tr("Show information about Katz"));
+	//aboutLEEAction = new QAction(QIcon(":/icons/bitcoin2"), tr("&LEE Website"), this);
+    //aboutLEEAction->setToolTip(tr("Goto LEE Website"));
+    aboutAction = new QAction(QIcon(":/icons/bitcoin"), tr("&About Leecoin"), this);
+    aboutAction->setToolTip(tr("Show information about Leecoin"));
     aboutAction->setMenuRole(QAction::AboutRole);
     aboutQtAction = new QAction(QIcon(":/icons/qtlogo"), tr("About &Qt"), this);
     aboutQtAction->setToolTip(tr("Show information about Qt"));
     aboutQtAction->setMenuRole(QAction::AboutQtRole);
 	
     optionsAction = new QAction(QIcon(":/icons/options"), tr("&Options..."), this);
-    optionsAction->setToolTip(tr("Modify configuration options for Katz"));
+    optionsAction->setToolTip(tr("Modify configuration options for Leecoin"));
     optionsAction->setMenuRole(QAction::PreferencesRole);
 	
     toggleHideAction = new QAction(QIcon(":/icons/bitcoin"), tr("&Show / Hide"), this);
@@ -340,7 +340,7 @@ void BitcoinGUI::createActions()
     openRPCConsoleAction->setToolTip(tr("Open debugging and diagnostic console"));
 
     connect(quitAction, SIGNAL(triggered()), qApp, SLOT(quit()));
-	//connect(aboutKATAction, SIGNAL(triggered()), this, SLOT(aboutKATClicked()));
+	//connect(aboutLEEAction, SIGNAL(triggered()), this, SLOT(aboutLEEClicked()));
     connect(aboutAction, SIGNAL(triggered()), this, SLOT(aboutClicked()));
     connect(aboutQtAction, SIGNAL(triggered()), qApp, SLOT(aboutQt()));
     connect(optionsAction, SIGNAL(triggered()), this, SLOT(optionsClicked()));
@@ -386,7 +386,7 @@ void BitcoinGUI::createMenuBar()
     help->addAction(openRPCConsoleAction);
     help->addSeparator();
 #ifdef WIN32
-    //help->addAction(aboutKATAction);
+    //help->addAction(aboutLEEAction);
 #endif
     help->addAction(aboutAction);
     help->addAction(aboutQtAction);
@@ -436,7 +436,7 @@ void BitcoinGUI::setClientModel(ClientModel *clientModel)
 #endif
             if(trayIcon)
             {
-                trayIcon->setToolTip(tr("Katz client") + QString(" ") + tr("[testnet]"));
+                trayIcon->setToolTip(tr("Leecoin client") + QString(" ") + tr("[testnet]"));
                 trayIcon->setIcon(QIcon(":/icons/toolbar_testnet"));
                 toggleHideAction->setIcon(QIcon(":/icons/toolbar_testnet"));
             }
@@ -498,7 +498,7 @@ void BitcoinGUI::createTrayIcon()
     trayIcon = new QSystemTrayIcon(this);
     trayIconMenu = new QMenu(this);
     trayIcon->setContextMenu(trayIconMenu);
-    trayIcon->setToolTip(tr("Katz client"));
+    trayIcon->setToolTip(tr("Leecoin client"));
     trayIcon->setIcon(QIcon(":/icons/toolbar"));
     connect(trayIcon, SIGNAL(activated(QSystemTrayIcon::ActivationReason)),
             this, SLOT(trayIconActivated(QSystemTrayIcon::ActivationReason)));
@@ -549,8 +549,8 @@ void BitcoinGUI::optionsClicked()
     dlg.exec();
 }
 
-// KAT WEBSITE BUTTON
-//void BitcoinGUI::aboutKATClicked()
+// LEE WEBSITE BUTTON
+//void BitcoinGUI::aboutLEEClicked()
 //{
 //    QDesktopServices::openUrl(QUrl("http://www.dcredits.com/"));
 //}
@@ -574,7 +574,7 @@ void BitcoinGUI::setNumConnections(int count)
     default: icon = ":/icons/connect_4"; break;
     }
     labelConnectionsIcon->setPixmap(QIcon(icon).pixmap(STATUSBAR_ICONSIZE,STATUSBAR_ICONSIZE));
-    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Katz network", "", count));
+    labelConnectionsIcon->setToolTip(tr("%n active connection(s) to Leecoin network", "", count));
 }
 
 void BitcoinGUI::setNumBlocks(int count, int nTotalBlocks)
@@ -885,7 +885,7 @@ void BitcoinGUI::dropEvent(QDropEvent *event)
         if (nValidUrisFound)
             gotoSendCoinsPage();
         else
-            notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Katz address or malformed URI parameters."));
+            notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters."));
     }
 
     event->acceptProposedAction();
@@ -900,7 +900,7 @@ void BitcoinGUI::handleURI(QString strURI)
         gotoSendCoinsPage();
     }
     else
-        notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Katz address or malformed URI parameters."));
+        notificator->notify(Notificator::Warning, tr("URI handling"), tr("URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters."));
 }
 
 void BitcoinGUI::setEncryptionStatus(int status)

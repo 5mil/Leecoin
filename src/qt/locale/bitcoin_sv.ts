@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Katz</source>
+        <source>About Leecoin</source>
         <translation>Vad du behöver veta om BTestcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Katz&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Katz&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Leecoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Katz developers</source>
+Copyright © 2014 The Leecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Katz developers</translation>
+Copyright © 2014 The Leecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Katz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dessa är dina Katz adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skickat en betalning.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dessa är dina Leecoin adesser för att mottaga betalningsförsändelser. Du kan även använda olika adresser för varje avsändare för att enkelt hålla koll på vem som har skicLEE en betalning.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -81,8 +81,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Katz address</source>
-        <translation>Signera ett meddelande för att bevisa att du äger Katz adressen</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Signera ett meddelande för att bevisa att du äger Leecoin adressen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Katz address</source>
-        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Katz adress</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Verifiera ett meddelande för att försäkra dig över att det var signerat av en specifik Leecoin adress</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -237,7 +237,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR KAT&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LEE&lt;/b&gt;!</source>
         <translation>Varning: Om du krypterar plånboken och glömmer lösenordet, kommer du att &lt;b&gt;FÖRLORA ALLA COINS&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -264,7 +264,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-58"/>
-        <source>Katz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation>BTestcoin plånboken kommer nu att stängas för att slutföra krypteringen: Kom ihåg att även en krypterad plånboks säkerhet kan äventyras genom keyloggers eller dylika malwares.</translation>
     </message>
     <message>
@@ -378,8 +378,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Katz</source>
-        <translation>Visa information om Katz</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Visa information om Leecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -428,13 +428,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Katz address</source>
-        <translation>Skicka coins till en Katz adress</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Skicka coins till en Leecoin adress</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Katz</source>
-        <translation>Modifiera konfigurations-alternativ för Katz</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Modifiera konfigurations-alternativ för Leecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -473,8 +473,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="-200"/>
-        <source>Katz</source>
-        <translation>Katz</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -483,8 +483,8 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Katz</source>
-        <translation>&amp;Om Katz</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>&amp;Om Leecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -540,13 +540,13 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Katz client</source>
-        <translation>Katz klient</translation>
+        <source>Leecoin client</source>
+        <translation>Leecoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Katz network</source>
-        <translation><numerusform>%n aktiv anslutning till Katz nätverket</numerusform><numerusform>%n aktiva anslutning till Katz nätverket</numerusform></translation>
+        <source>%n active connection(s) to Leecoin network</source>
+        <translation><numerusform>%n aktiv anslutning till Leecoin nätverket</numerusform><numerusform>%n aktiva anslutning till Leecoin nätverket</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -556,7 +556,7 @@ Denna produkten innehåller mjukvara utvecklad av OpenSSL Project för användni
     <message>
         <location line="+413"/>
         <source>Staking.&lt;br&gt;Your weight is %1&lt;br&gt;Network weight is %2&lt;br&gt;Expected time to earn reward is %3</source>
-        <translation>Staking.&lt;br&gt;Din vikt är %1&lt;br&gt;Nätverkets vikt är %2&lt;br&gt;Uppskattad tid för att få belöning är %3</translation>
+        <translation>Staking.&lt;br&gt;Din vikt är %1&lt;br&gt;Nätverkets vikt är %2&lt;br&gt;UppsLEEtad tid för att få belöning är %3</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -660,8 +660,8 @@ Adress: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Katz address or malformed URI parameters.</source>
-        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Katz adress eller felaktiga URI parametrar.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>URI:n kan inte tolkas! Detta kan bero på en ogiltig Leecoin adress eller felaktiga URI parametrar.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,7 +720,7 @@ Adress: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Katz can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
         <translation>Ett fatalt fel uppstod. BTestcoin kan inte fortsätta och stänger programmet.</translation>
     </message>
 </context>
@@ -1054,7 +1054,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Katz address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
         <translation>Den inslagna adressen &quot;%1&quot; är inte en giltig BTestcoin adress.</translation>
     </message>
     <message>
@@ -1073,8 +1073,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Katz-Qt</source>
-        <translation>Katz-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,12 +1146,12 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Katz after logging in to the system.</source>
+        <source>Automatically start Leecoin after logging in to the system.</source>
         <translation>Starta BTestcoin automatiskt vid inloggning.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Katz on system login</source>
+        <source>&amp;Start Leecoin on system login</source>
         <translation>&amp;Starta BTestcoin vid inloggning</translation>
     </message>
     <message>
@@ -1171,8 +1171,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Katz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Öppna automatiskt Katz klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Öppna automatiskt Leecoin klientens port på routern. Detta fungerar endast om din router stödjer UPnP och det är aktiverat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Katz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Anslut till Katz nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Anslut till Leecoin nätverket via en SOCKS proxy (t.ex. när du ansluter genom Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1237,7 +1237,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimera applikationen istället för att stänga ner den när fönstret stängs. Detta innebär att programmet fotrsätter att köras tills du väljer Avsluta i menyn.</translation>
+        <translation>Minimera appliLEEionen istället för att stänga ner den när fönstret stängs. Detta innebär att programmet fotrsätter att köras tills du väljer Avsluta i menyn.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Katz.</source>
-        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Katz.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>Användargränssnittets språk kan ställas in här. Inställningen börjar gälla efter omstart av Leecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Katz addresses in the transaction list or not.</source>
-        <translation>Om Katz adresser skall visas i transaktionslistan eller inte.</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Om Leecoin adresser skall visas i transaktionslistan eller inte.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Katz.</source>
-        <translation>Inställningen börjar gälla efter omstart av Katz.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>Inställningen börjar gälla efter omstart av Leecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Katz network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Katz nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den visade informationen kan vara gammal. Din plånbok synkroniseras automatiskt med Leecoin nätverket efter att en anslutning skapats, men denna process är inte klar än.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Katz-Qt help message to get a list with possible Katz command-line options.</source>
-        <translation>Visa Katz-Qt hjälp meddelandet för att få en lista över möjliga Katz kommandoradsalternativ.</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Visa Leecoin-Qt hjälp meddelandet för att få en lista över möjliga Leecoin kommandoradsalternativ.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Katz - Debug window</source>
-        <translation>Katz - Felsökningsfönster</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - Felsökningsfönster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Katz Core</source>
-        <translation>Katz Core</translation>
+        <source>Leecoin Core</source>
+        <translation>Leecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Katz debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Öppna Katz felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Öppna Leecoin felsöknings-loggfilen från nuvarande data mapp. Detta kan kan ta ett par minuter för stora log filer.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Katz RPC console.</source>
-        <translation>Välkommen till Katz RPC konsoll.</translation>
+        <source>Welcome to the Leecoin RPC console.</source>
+        <translation>Välkommen till Leecoin RPC konsoll.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Fyll i en Katz adress (t.ex. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Fyll i en Leecoin adress (t.ex. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Katz address</source>
-        <translation>VARNING: Ogiltig Katz adress</translation>
+        <source>WARNING: Invalid Leecoin address</source>
+        <translation>VARNING: Ogiltig Leecoin adress</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1901,8 +1901,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Adressen att skicka betalningen till  (t.ex. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address to send the payment to  (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Adressen att skicka betalningen till  (t.ex. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1931,8 +1931,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Fyll i en Katz adress (t.ex. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Fyll i en Leecoin adress (t.ex. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Adressen att signera meddelandet med (t.ex. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address to sign the message with (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Adressen att signera meddelandet med (t.ex. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1992,8 +1992,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Katz address</source>
-        <translation>Signera meddelandet för att verifiera att du äger denna Katz adressen</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Signera meddelandet för att verifiera att du äger denna Leecoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2019,13 +2019,13 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Adressen meddelandet var signerad med (t.ex. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address the message was signed with (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Adressen meddelandet var signerad med (t.ex. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Katz address</source>
-        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Katz adressen</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Verifiera meddelandet för att vara säker på att det var signerat med den angivna Leecoin adressen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Fyll i en Katz adress (t.ex. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Fyll i en Leecoin adress (t.ex. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Katz signature</source>
-        <translation>Fyll i Katz signatur</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Fyll i Leecoin signatur</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2107,7 +2107,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation>Meddelandet verifikation misslyckades.</translation>
+        <translation>Meddelandet verifiLEEion misslyckades.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2286,7 +2286,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <message>
         <location line="-211"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation>, har inte lyckats skickas ännu</translation>
+        <translation>, har inte lycLEEs skickas ännu</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2616,8 +2616,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Katz version</source>
-        <translation>Katz version</translation>
+        <source>Leecoin version</source>
+        <translation>Leecoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or katzd</source>
-        <translation>Skicka kommando till -server eller katzd</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>Skicka kommando till -server eller Leecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,23 +2646,23 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: katz.conf)</source>
-        <translation>Ange konfigurationsfilen (standard: katz.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Ange konfigurationsfilen (standard: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: katzd.pid)</source>
-        <translation>Ange pid filen (standard katzd.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>Ange pid filen (standard Leecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation>Ange plånboksfil (inom datakatalogen)</translation>
+        <translation>Ange plånboksfil (inom dataLEEalogen)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation>Ange katalog för data</translation>
+        <translation>Ange LEEalog för data</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,7 +2801,7 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Katz will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
         <translation>Varning: Kolla att din dators tid och datum är rätt. BTestcoin kan inte fungera ordentligt om tiden i datorn är fel.</translation>
     </message>
     <message>
@@ -2991,24 +2991,24 @@ Detta betyder att en avgift på minst %2 krävs.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=katz-rpc-username
+rpcuser=Leecoin-rpc-username
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, du måste sätta rpcpassword i konfigurationsfilen:
  %s
 Det är rekommenderat att du använder följande slumpmässiga lösenord:
-rpcuser=katz-rpc-username
+rpcuser=Leecoin-rpc-username
 rpcpassword=%s
 (du behöver inte komma ihåg detta lösenord)
 Användarnamnet och lösenordet FÅR INTE vara samma.
 Om filen inte finns, skapa den med endast ägarrättigheter.
 Det är också rekommenderat att sätta alertnotify så du blir notifierad om problem;
-till exempel: alertnotify=echo %%s | mail -s &quot;Katz Varning&quot; admin@foo.com
+till exempel: alertnotify=echo %%s | mail -s &quot;Leecoin Varning&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3084,7 +3084,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Katz Varning&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-6, default: 1)</source>
-        <translation>Hur genomförlig blockverifikationen är (0-6, standard: 1)</translation>
+        <translation>Hur genomförlig blockverifiLEEionen är (0-6, standard: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3099,7 +3099,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Katz Varning&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation>Serverns certifikatfil (förvalt: server.cert)</translation>
+        <translation>Serverns certifiLEEfil (förvalt: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3133,13 +3133,13 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Katz Varning&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Katz is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
         <translation>Kan inte låsa datan i mappen %s. BTestcoin är kanske redan startad.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Katz</source>
-        <translation>Katz</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3173,12 +3173,12 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Katz Varning&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Katz</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
         <translation>Kunde inte ladda wallet.dat: En nyare version av BTestcoin krävs</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Katz to complete</source>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
         <translation>Plånboken måste skrivas om: Starta om BTestcoin för att slutföra</translation>
     </message>
     <message>
@@ -3248,7 +3248,7 @@ till exempel: alertnotify=echo %%s | mail -s &quot;Katz Varning&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Katz is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
         <translation>Kan inte binda till %s på denna dator. BTestcoin är sannolikt redan startad.</translation>
     </message>
     <message>

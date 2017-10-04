@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Katz</source>
-        <translation>Katz Hakkında</translation>
+        <source>About Leecoin</source>
+        <translation>Leecoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Katz&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Katz&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Leecoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Katz developers</source>
+Copyright © 2014 The Leecoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Katz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Katz adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için Leecoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Katz address</source>
-        <translation>Bir Katz adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Bir Leecoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Katz address</source>
-        <translation>Mesajın, belirli bir Katz adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Mesajın, belirli bir Leecoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -234,7 +234,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR KAT&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LEE&lt;/b&gt;!</source>
         <translation>Uyarı: Eğer cüzdanınızı şifreleyip parolanızı kaybederseniz, &lt;b&gt; TÜM COINLERİNİZİ KAYBEDECEKSİNİZ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>Katz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Katz, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Leecoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Katz</source>
-        <translation>Katz hakkındaki bilgiyi göster</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Leecoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Katz address</source>
-        <translation>Bir Katz adresine coin gönder</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Bir Leecoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Katz</source>
-        <translation>Katz yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Leecoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-200"/>
-        <source>Katz</source>
-        <translation>Katz</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Katz</source>
-        <translation>Katz &amp;Hakkında</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>Leecoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Katz client</source>
-        <translation>Katz istemcisi</translation>
+        <source>Leecoin client</source>
+        <translation>Leecoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Katz network</source>
-        <translation><numerusform>Katz ağına %n etkin bağlantı</numerusform><numerusform>Katz ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Leecoin network</source>
+        <translation><numerusform>Leecoin ağına %n etkin bağlantı</numerusform><numerusform>Leecoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -657,8 +657,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Katz address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Katz adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Leecoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -717,8 +717,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Katz can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Katz artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. Leecoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -969,7 +969,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
 
  Bu, en az %2 bir ücretin gerektiği anlamına gelir. 
 
- Minimum aktarım ücretinin 0.546 katından düşük miktarlar, BOZUKLUK olarak gösterilir.</translation>
+ Minimum aktarım ücretinin 0.546 LEEından düşük miktarlar, BOZUKLUK olarak gösterilir.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1051,8 +1051,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Katz address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Katz adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir Leecoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1070,8 +1070,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Katz-Qt</source>
-        <translation>Katz-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1134,7 +1134,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+31"/>
         <source>Reserved amount does not participate in staking and is therefore spendable at any time.</source>
-        <translation>Ayrılan miktar, pay almaya katılamıyor ve bu yüzden herhangi bir anda harcanabilir.</translation>
+        <translation>Ayrılan miktar, pay almaya LEEılamıyor ve bu yüzden herhangi bir anda harcanabilir.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1143,13 +1143,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Katz after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Katz&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start Leecoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra Leecoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Katz on system login</source>
-        <translation>Sisteme girişte Katz&apos;i &amp;başlat</translation>
+        <source>&amp;Start Leecoin on system login</source>
+        <translation>Sisteme girişte Leecoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1168,8 +1168,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Katz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Katz istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide Leecoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Katz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Katz ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Leecoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1253,8 +1253,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Katz.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Katz yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Leecoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1268,8 +1268,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Katz addresses in the transaction list or not.</source>
-        <translation>Katz adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Leecoin adresinin işlem listesinde gösterilmesi veya gösterilmemesi</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1315,8 +1315,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Katz.</source>
-        <translation>Bu ayar, Katz&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>Bu ayar, Leecoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1334,8 +1334,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Katz network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Katz ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Leecoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1550,8 +1550,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Katz-Qt help message to get a list with possible Katz command-line options.</source>
-        <translation>Muhtemel Katz komut satırı seçeneklerinin bir listesini getirmek için Katz-Qt yardım mesajını göster</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Muhtemel Leecoin komut satırı seçeneklerinin bir listesini getirmek için Leecoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1570,13 +1570,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Katz - Debug window</source>
-        <translation>Katz - Hata ayıklama penceresi</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Katz Core</source>
-        <translation>Katz Core</translation>
+        <source>Leecoin Core</source>
+        <translation>Leecoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1585,8 +1585,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Katz debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Katz hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Leecoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1595,8 +1595,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Katz RPC console.</source>
-        <translation>Katz RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Leecoin RPC console.</source>
+        <translation>Leecoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1754,8 +1754,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Bir Katz adresi gir (örn: KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Bir Leecoin adresi gir (örn: LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1854,8 +1854,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Katz address</source>
-        <translation>UYARI: Geçersiz Katz adresi</translation>
+        <source>WARNING: Invalid Leecoin address</source>
+        <translation>UYARI: Geçersiz Leecoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1898,8 +1898,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Ödemenin gönderileceği adres (örn: KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address to send the payment to  (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Ödemenin gönderileceği adres (örn: LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1928,8 +1928,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Bir Katz adresi girin (örn: KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Bir Leecoin adresi girin (örn: LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
 </context>
 <context>
@@ -1948,12 +1948,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-118"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Bir adresin sizin olduğunu ispatlamak için adresinizle mesaj imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz hiçbir şey imzalamamaya dikkat ediniz. Sadece ayrıntılı açıklaması olan ve tümüne katıldığınız ifadeleri imzalayınız.</translation>
+        <translation>Bir adresin sizin olduğunu ispatlamak için adresinizle mesaj imzalayabilirsiniz. Oltalama saldırılarının kimliğinizi imzanızla elde etmeyi deneyebilecekleri için belirsiz hiçbir şey imzalamamaya dikLEE ediniz. Sadece ayrıntılı açıklaması olan ve tümüne LEEıldığınız ifadeleri imzalayınız.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Mesajın imzalanacağı adres (örn: KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address to sign the message with (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Mesajın imzalanacağı adres (örn: LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1989,8 +1989,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Katz address</source>
-        <translation>Bu Katz adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Bu Leecoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2012,17 +2012,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-64"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation>İmza için kullanılan adresi, mesajı (satır sonları, boşluklar, sekmeler vs. karakterleri tam olarak kopyaladığınızdan emin olunuz) ve imzayı aşağıda giriniz. Bir ortadaki adam saldırısı tarafından kandırılmaya mâni olmak için imzadan, imzalı mesajın içeriğini aşan bir anlam çıkarmamaya dikkat ediniz.</translation>
+        <translation>İmza için kullanılan adresi, mesajı (satır sonları, boşluklar, sekmeler vs. karakterleri tam olarak kopyaladığınızdan emin olunuz) ve imzayı aşağıda giriniz. Bir ortadaki adam saldırısı tarafından kandırılmaya mâni olmak için imzadan, imzalı mesajın içeriğini aşan bir anlam çıkarmamaya dikLEE ediniz.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Mesajın imzalandığı adres (örn: KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address the message was signed with (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Mesajın imzalandığı adres (örn: LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Katz address</source>
-        <translation>Mesajın, belirtilen Katz adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Mesajın, belirtilen Leecoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Bir Katz adresi girin (örn: KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Bir Leecoin adresi girin (örn: LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2042,8 +2042,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Katz signature</source>
-        <translation>Katz imzası gir</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Leecoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2613,8 +2613,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Katz version</source>
-        <translation>Katz versiyonu</translation>
+        <source>Leecoin version</source>
+        <translation>Leecoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2623,8 +2623,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or katzd</source>
-        <translation>-sunucu veya katzd&apos;ye komut gönder</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>-sunucu veya Leecoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2643,13 +2643,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: katz.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: katz.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: katzd.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: Katz.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: Leecoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2798,8 +2798,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Katz will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Katz düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Leecoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2988,24 +2988,24 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=katz-rpc-username
+rpcuser=Leecoin-rpc-username
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz:
  %s
 Aşağıdaki rastgele parolayı kullanmanız tavsiye edilir:
-rpcuser=katz-rpc-username
+rpcuser=Leecoin-rpc-username
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekmemektedir)
 Kullanıcı adı ve parola aynı OLMAMALIDIR.
 Dosya mevcut değilse, dosyayı sadece-kullanıcı-okuyabilir dosya izniyle yaratınız.
 alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildirilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;Katz Uyarısı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;Leecoin Uyarısı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3130,12 +3130,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Katz is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>Katz</source>
+        <source>Leecoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3170,12 +3170,12 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Katz</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Katz to complete</source>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3245,7 +3245,7 @@ alertnotify ayarlamanız da ayrıca tavsiye edilir böylece sorunlar, size bildi
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Katz is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

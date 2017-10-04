@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Katz</source>
+        <source>About Leecoin</source>
         <translation>O BTestcoine</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Katz&lt;/b&gt; version</source>
-        <translation>verzia &lt;b&gt;Katzu&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Leecoin&lt;/b&gt; version</source>
+        <translation>verzia &lt;b&gt;Leecoinu&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Katz developers</source>
+Copyright © 2014 The Leecoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Katz developers</translation>
+Copyright © 2014 The Leecoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your Katz addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Katz adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your Leecoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Leecoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a Katz address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Katz adresu</translation>
+        <source>Sign a message to prove you own a Leecoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Leecoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified Katz address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Katz adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Leecoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Leecoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -236,7 +236,7 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+1"/>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR KAT&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR LEE&lt;/b&gt;!</source>
         <translation>Upozornenie: Ak zašifrujete vašu peňaženku a stratíte prístupové heslo, potom &lt;b&gt;prídete o všetky svoje MINCE&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>Katz will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Katz sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Leecoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Leecoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Katz</source>
-        <translation>Zobraziť informácie o Katz</translation>
+        <source>Show information about Leecoin</source>
+        <translation>Zobraziť informácie o Leecoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-62"/>
-        <source>Send coins to a Katz address</source>
-        <translation>Poslať mince na Katz adresu</translation>
+        <source>Send coins to a Leecoin address</source>
+        <translation>Poslať mince na Leecoin adresu</translation>
     </message>
     <message>
         <location line="+45"/>
-        <source>Modify configuration options for Katz</source>
-        <translation>Upraviť možnosti konfigurácie pre Katz</translation>
+        <source>Modify configuration options for Leecoin</source>
+        <translation>Upraviť možnosti konfigurácie pre Leecoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-200"/>
-        <source>Katz</source>
-        <translation>Katz</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+178"/>
-        <source>&amp;About Katz</source>
-        <translation>&amp;O Katz</translation>
+        <source>&amp;About Leecoin</source>
+        <translation>&amp;O Leecoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>Katz client</source>
-        <translation>Katz klient</translation>
+        <source>Leecoin client</source>
+        <translation>Leecoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Katz network</source>
-        <translation><numerusform>%n aktívne spojenie s Katz sieťov</numerusform><numerusform>%n aktívnych spojení s Katz sieťov</numerusform><numerusform>%n aktívnych spojení s Katz sieťou</numerusform></translation>
+        <source>%n active connection(s) to Leecoin network</source>
+        <translation><numerusform>%n aktívne spojenie s Leecoin sieťov</numerusform><numerusform>%n aktívnych spojení s Leecoin sieťov</numerusform><numerusform>%n aktívnych spojení s Leecoin sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -658,8 +658,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Katz address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Katz adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Leecoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Leecoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -718,8 +718,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. Katz can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Katz už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Leecoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Leecoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1052,8 +1052,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Katz address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Katz adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Leecoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Leecoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1071,8 +1071,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>Katz-Qt</source>
-        <translation>Katz-Qt</translation>
+        <source>Leecoin-Qt</source>
+        <translation>Leecoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1144,13 +1144,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Katz after logging in to the system.</source>
-        <translation>Automaticky spustiť Katz po prihlásení sa do systému.</translation>
+        <source>Automatically start Leecoin after logging in to the system.</source>
+        <translation>Automaticky spustiť Leecoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Katz on system login</source>
-        <translation>&amp;Spustiť Katz pri prihlásení do systému</translation>
+        <source>&amp;Start Leecoin on system login</source>
+        <translation>&amp;Spustiť Leecoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1169,8 +1169,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Katz client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Katz na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Leecoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Leecoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Katz network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti Katz cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Leecoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Leecoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Katz.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Katz.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Leecoin.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Leecoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1269,8 +1269,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Katz addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť Katz adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Leecoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Leecoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Katz.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Katz.</translation>
+        <source>This setting will take effect after restarting Leecoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Leecoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Katz network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Katz po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Leecoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Leecoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1551,8 +1551,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Katz-Qt help message to get a list with possible Katz command-line options.</source>
-        <translation>Zobraziť Katz-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Katz.</translation>
+        <source>Show the Leecoin-Qt help message to get a list with possible Leecoin command-line options.</source>
+        <translation>Zobraziť Leecoin-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Leecoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1571,13 +1571,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Katz - Debug window</source>
-        <translation>Katz - Ladiace okno</translation>
+        <source>Leecoin - Debug window</source>
+        <translation>Leecoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Katz Core</source>
-        <translation>Jadro Katz</translation>
+        <source>Leecoin Core</source>
+        <translation>Jadro Leecoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1586,7 +1586,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Katz debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Leecoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Otvorte BTestcoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
@@ -1596,7 +1596,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the Katz RPC console.</source>
+        <source>Welcome to the Leecoin RPC console.</source>
         <translation>Vitajte v konzole BTestcoin RPC.</translation>
     </message>
     <message>
@@ -1755,8 +1755,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Zadajte Katz adresu (napr. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Zadajte Leecoin adresu (napr. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1855,8 +1855,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid Katz address</source>
-        <translation>UPOZORNENIE: Neplatná Katz adresa</translation>
+        <source>WARNING: Invalid Leecoin address</source>
+        <translation>UPOZORNENIE: Neplatná Leecoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1899,8 +1899,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to send the payment to  (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Adresa pre poslanie platby (napr. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address to send the payment to  (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Adresa pre poslanie platby (napr. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1929,8 +1929,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Zadajte Katz adresu (napr. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Zadajte Leecoin adresu (napr. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
 </context>
 <context>
@@ -1953,8 +1953,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Adresa na podpísanie správy (napr. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address to sign the message with (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Adresa na podpísanie správy (napr. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1990,8 +1990,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Katz address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Katz adresu</translation>
+        <source>Sign the message to prove you own this Leecoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Leecoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2017,13 +2017,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Adresa správy bola podpísaná (napr. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>The address the message was signed with (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Adresa správy bola podpísaná (napr. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Katz address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Katz adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified Leecoin address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Leecoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a KAT address (e.g. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
-        <translation>Zadajte Katz adresu (napr. KATh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
+        <source>Enter a LEE address (e.g. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</source>
+        <translation>Zadajte Leecoin adresu (napr. LEEh5rtrdyFSoriG6Kb9DLmuGkQ4dPeJQg)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2043,8 +2043,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Katz signature</source>
-        <translation>Zadajte Katz podpis</translation>
+        <source>Enter Leecoin signature</source>
+        <translation>Zadajte Leecoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2614,8 +2614,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>Katz version</source>
-        <translation>Katz verzia</translation>
+        <source>Leecoin version</source>
+        <translation>Leecoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2624,8 +2624,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or katzd</source>
-        <translation>Pošli príkaz na -server alebo katzd</translation>
+        <source>Send command to -server or Leecoind</source>
+        <translation>Pošli príkaz na -server alebo Leecoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2644,13 +2644,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: katz.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: katz.conf)</translation>
+        <source>Specify configuration file (default: Leecoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: Leecoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: katzd.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: katzd.pid)</translation>
+        <source>Specify pid file (default: Leecoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: Leecoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2799,8 +2799,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Katz will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Katz nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Leecoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Leecoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2989,24 +2989,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=katz-rpc-username
+rpcuser=Leecoin-rpc-username
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=katz-rpc-username
+rpcuser=Leecoin-rpc-username
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Leecoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3130,13 +3130,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  Katz is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. Katz už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Leecoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Leecoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>Katz</source>
-        <translation>Katz</translation>
+        <source>Leecoin</source>
+        <translation>Leecoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3170,13 +3170,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Katz</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Katz</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Leecoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Leecoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Katz to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Katz k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Leecoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Leecoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3245,8 +3245,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Katz Alert&quot; admin@foo.com<
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. Katz is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Katz je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Leecoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Leecoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/katz.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/Leecoin.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Katz"
-            VALUE "FileDescription",    "Katz-Qt (OSS GUI client for Katz)"
+            VALUE "CompanyName",        "Leecoin"
+            VALUE "FileDescription",    "Leecoin-Qt (OSS GUI client for Leecoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "Katz-qt"
-            VALUE "LegalCopyright",     "2015 The KAT Core Developers"
+            VALUE "InternalName",       "Leecoin-qt"
+            VALUE "LegalCopyright",     "2015 The LEE Core Developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "Katz-qt.exe"
-            VALUE "ProductName",        "Katz-Qt"
+            VALUE "OriginalFilename",   "Leecoin-qt.exe"
+            VALUE "ProductName",        "Leecoin-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -2,8 +2,8 @@
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-# KAT SHA256 Algo
-# Katz (The World's most rare Coin) Built by Muroko Blados [github.com/Mur0k0] 
+# LEE SHA256 Algo
+# Leecoin (The World's most rare Coin) Built by Muroko Blados [github.com/Mur0k0] 
 
 USE_UPNP:=0
 
@@ -147,7 +147,7 @@ OBJS= \
     obj/zerocoin/SpendMetaData.o \
     obj/zerocoin/ZeroTest.o
 
-all: katzd
+all: Leecoind
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -188,11 +188,11 @@ obj/zerocoin/%.o: zerocoin/%.cpp
 	      -e '/^$$/ d' -e 's/$$/ :/' < $(@:%.o=%.d) >> $(@:%.o=%.P); \
 	  rm -f $(@:%.o=%.d)
 
-katzd: $(OBJS:obj/%=obj/%)
+Leecoind: $(OBJS:obj/%=obj/%)
 	$(LINK) $(xCXXFLAGS) -o $@ $^ $(xLDFLAGS) $(LIBS)
 
 clean:
-	-rm -f katzd
+	-rm -f Leecoind
 	-rm -f obj/zerocoin/*.o
 	-rm -f obj/zerocoin/*.P
 	-rm -f obj/build.h

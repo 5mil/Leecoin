@@ -2,8 +2,8 @@
 # Distributed under the MIT/X11 software license, see the accompanying
 # file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-# KAT SHA256 Algo
-# Katz (The First POS rare Coin) Built by Muroko Blados [github.com/Mur0k0] 
+# LEE SHA256 Algo
+# Leecoin (The First POS rare Coin) Built by Muroko Blados [github.com/Mur0k0] 
 
 # CXX ?= g++
 
@@ -109,7 +109,7 @@ OBJS= \
     obj/zerocoin/SpendMetaData.o \
     obj/zerocoin/ZeroTest.o
 
-all: katzd.exe
+all: Leecoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -131,11 +131,11 @@ obj/scrypt-x86.o: scrypt-x86.S
 obj/scrypt-x86_64.o: scrypt-x86_64.S
 	$(CXX) -c $(xCXXFLAGS) -MMD -o $@ $<
 
-katzd.exe: $(OBJS:obj/%=obj/%)
+Leecoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 clean:
-	-rm -f katzd.exe
+	-rm -f Leecoind.exe
 	-rm -f obj\zerocoin\*
 	-rm -f obj/*.o
 	-rm -f obj/*.P

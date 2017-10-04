@@ -61,7 +61,7 @@ void Serveur::connected()
 
 void Serveur::joins()
 {
-    join("#katz");
+    join("#Leecoin");
 }
 
 void Serveur::readServeur()

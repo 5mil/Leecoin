@@ -63,7 +63,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // KAT: synchronized checkpoint (centrally broadcasted)
+    // LEE: synchronized checkpoint (centrally broadcasted)
     uint256 hashSyncCheckpoint = 0;
     uint256 hashPendingCheckpoint = 0;
     CSyncCheckpoint checkpointMessage;
@@ -71,7 +71,7 @@ namespace Checkpoints
     uint256 hashInvalidCheckpoint = 0;
     CCriticalSection cs_hashSyncCheckpoint;
 
-    // KAT: get last synchronized checkpoint
+    // LEE: get last synchronized checkpoint
     CBlockIndex* GetLastSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -82,7 +82,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // KAT: only descendant of current sync-checkpoint is allowed
+    // LEE: only descendant of current sync-checkpoint is allowed
     bool ValidateSyncCheckpoint(uint256 hashCheckpoint)
     {
         if (!mapBlockIndex.count(hashSyncCheckpoint))
@@ -235,7 +235,7 @@ namespace Checkpoints
         return false;
     }
 
-    // KAT: reset synchronized checkpoint to last hardened checkpoint
+    // LEE: reset synchronized checkpoint to last hardened checkpoint
     bool ResetSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -346,12 +346,12 @@ namespace Checkpoints
     }
 }
 
-// KAT: sync-checkpoint master key
+// LEE: sync-checkpoint master key
 const std::string CSyncCheckpoint::strMasterPubKey = "042e6f9eda929cfc4198702ee2c67b23d61e149b362343a5995c5dd2c18ccd2c93758f949a35bb0ef0e849648d30efcb56a0ba9e20dac9643ea41447d764ced729";
 
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 
-// KAT: verify signature of sync-checkpoint message
+// LEE: verify signature of sync-checkpoint message
 bool CSyncCheckpoint::CheckSignature()
 {
     CKey key;
@@ -366,7 +366,7 @@ bool CSyncCheckpoint::CheckSignature()
     return true;
 }
 
-// KAT: process synchronized checkpoint
+// LEE: process synchronized checkpoint
 bool CSyncCheckpoint::ProcessSyncCheckpoint(CNode* pfrom)
 {
     if (!CheckSignature())

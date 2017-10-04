@@ -275,7 +275,7 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 45,  // Katz addresses begin with 'K'
+        PUBKEY_ADDRESS = 45,  // Leecoin addresses begin with 'K'
         SCRIPT_ADDRESS = 85,  
         PUBKEY_ADDRESS_TEST = 76,
         SCRIPT_ADDRESS_TEST = 196,

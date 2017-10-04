@@ -64,7 +64,7 @@ namespace Checkpoints
     bool IsSyncCheckpointTooOld(unsigned int nSeconds);
 }
 
-// KAT: synchronized checkpoint
+// LEE: synchronized checkpoint
 class CUnsignedSyncCheckpoint
 {
 public:
