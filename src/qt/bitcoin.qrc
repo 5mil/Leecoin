@@ -40,9 +40,9 @@
         <file alias="debugwindow">res/icons/debugwindow.png</file>
         <file alias="staking_off">res/icons/staking_off.png</file>
         <file alias="staking_on">res/icons/staking_on.png</file>
-        <file alias="bitcoin">res/icons/Leecoin256.png</file>
-		<file alias="bitcoin2">res/icons/Leecoin_website.png</file>
-        <file alias="bitcoin_testnet">res/icons/Leecoin256.png</file>
+        <file alias="bitcoin">res/images/lee.jpg</file>
+		<file alias="bitcoin2">res/images/lee.jpg</file>
+        <file alias="bitcoin_testnet">res/images/lee.jpg</file>
         <file alias="toolbar">res/icons/toolbar-16.png</file>
         <file alias="toolbar_testnet">res/icons/toolbar_testnet-16.png</file>
 		<file alias="qtlogo">res/icons/qtlogo-64.png</file>
@@ -53,9 +53,9 @@
 		<file alias="block">res/icons/block.png</file>
     </qresource>
     <qresource prefix="/images">
-        <file alias="about">res/images/about.png</file>
-        <file alias="splash">res/images/splash.png</file>
-        <file alias="Wallet_Logo">res/images/Wallet_Logo.png</file>
+        <file alias="about">res/images/lee.jpg</file>
+        <file alias="splash">res/images/lee.jpg</file>
+        <file alias="Wallet_Logo">res/images/lee.jpg</file>
     </qresource>
     <qresource prefix="/movies">
         <file alias="Leecoin-spinner">res/movies/update_spinner.mng</file>
