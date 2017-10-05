@@ -989,7 +989,7 @@ int64_t GetProofOfWorkReward(int64_t nFees)
     
     if (pindexBest->nHeight == 1)
     {
-      nSubsidy = 30000 * COIN; 
+      nSubsidy = 420000 * COIN; 
       return nSubsidy + nFees;
     }
     
